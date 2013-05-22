@@ -4,6 +4,7 @@ _junk.txt
 .idea/*
 .idea/libraries/*
 *.nja
+README.html
 
 ###############################
 .svn
